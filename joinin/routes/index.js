@@ -2,7 +2,11 @@
 /*
  * GET home page.
  */
- var repo = require('../repository');
+//mysql
+//var repo = require('../repository');
+
+//mongo
+var repo = require('../repository_mongo')
 
 exports.index = function(req, res){
   res.render('index', { title: 'Express' })
