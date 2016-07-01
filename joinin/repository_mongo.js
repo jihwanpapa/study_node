@@ -1,11 +1,11 @@
 var Mongolian = require('mongolian')
 	, server = new Mongolian
-	, db = server.db('node_test')
-	, user = db.collection('members');
+	, db = server.db('studydb')
+	, users = db.collection('members');
 
 var mongoUtil = module.exports = {
 	insertUser: function(user, res){
-		user.insert({
+		users.insert({
 			name: user.name
 			, email: user.email
 		}, function(err,result){
@@ -20,8 +20,7 @@ var mongoUtil = module.exports = {
 		});
 	}
 	, hasNameAndEmail: function(user, res){
-		users.findOne({'$or': [{'name':user.name}
-			, {'email':user.email}]}, function(err,result){
+		users.findOne({'$or': [{'name':user.name}, {'email':user.email}]}, function(err,result){
 				if(err){
 					throw err;
 				}
