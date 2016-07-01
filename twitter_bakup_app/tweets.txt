@@ -1,0 +1,216 @@
+
+
+
+
+
+
+{
+	"response" : {
+		"header" : {
+			"resultCode" : "00",
+			"resultMsg" : "성공"
+		},
+		"body" : {
+
+			"items" : [
+	
+				{
+		 
+		 
+		    "post" : "225215",
+			 	"title" : "현대종합금속(주)",
+				"address" : " 황무로 698 (사음동)  ",
+				"chief" : "김상욱",
+				"production" : "인버터용접기, 용접재료",
+				"business" : "전기,전자",
+				"phone" : "031-6363100",
+				"number" : "34"
+		 
+		 
+		 
+		 
+		  
+		 
+				},
+	
+				{
+		 
+		 
+		    "post" : "225214",
+			 	"title" : "(주)아남정보기술",
+				"address" : " 증신로345번길 165 (사음동)  ",
+				"chief" : "김동민",
+				"production" : "전자칠판",
+				"business" : "전기,전자",
+				"phone" : "02-2106-1060",
+				"number" : "11"
+		 
+		 
+		 
+		 
+		  
+		 
+				},
+	
+				{
+		 
+		 
+		    "post" : "225213",
+			 	"title" : "효천도요",
+				"address" : " 경충대로2996번길 36-10 (사음동)  ",
+				"chief" : "권태현",
+				"production" : "도자기",
+				"business" : "비금속",
+				"phone" : "031-6355642",
+				"number" : "6"
+		 
+		 
+		 
+		 
+		  
+		 
+				},
+	
+				{
+		 
+		 
+		    "post" : "225212",
+			 	"title" : "혜천도요",
+				"address" : " 경충대로2993번길 56 (사음동)  ",
+				"chief" : "최성단",
+				"production" : "백자,청자",
+				"business" : "비금속",
+				"phone" : "031-6353416",
+				"number" : "5"
+		 
+		 
+		 
+		 
+		  
+		 
+				},
+	
+				{
+		 
+		 
+		    "post" : "225211",
+			 	"title" : "청산요",
+				"address" : " 경충대로2993번길 26-25 (사음동)  ",
+				"chief" : "이정면",
+				"production" : "도자기",
+				"business" : "비금속",
+				"phone" : "031-6332700",
+				"number" : "6"
+		 
+		 
+		 
+		 
+		  
+		 
+				},
+	
+				{
+		 
+		 
+		    "post" : "225210",
+			 	"title" : "송월요",
+				"address" : " 경충대로2993번길 64 (사음동)  ",
+				"chief" : "김성태",
+				"production" : "도자기",
+				"business" : "비금속",
+				"phone" : "031-6355754",
+				"number" : "7"
+		 
+		 
+		 
+		 
+		  
+		 
+				},
+	
+				{
+		 
+		 
+		    "post" : "225209",
+			 	"title" : "고암요",
+				"address" : " 경충대로2993번길 80 (사음동)  ",
+				"chief" : "김흥복",
+				"production" : "도자기",
+				"business" : "비금속",
+				"phone" : "031-6330358",
+				"number" : "5"
+		 
+		 
+		 
+		 
+		  
+		 
+				},
+	
+				{
+		 
+		 
+		    "post" : "225208",
+			 	"title" : "청파요",
+				"address" : " 경충대로2993번길 89 (사음동)  ",
+				"chief" : "이은구",
+				"production" : "도자기",
+				"business" : "비금속",
+				"phone" : "031-6355791",
+				"number" : "15"
+		 
+		 
+		 
+		 
+		  
+		 
+				},
+	
+				{
+		 
+		 
+		    "post" : "225207",
+			 	"title" : "㈜빛드림",
+				"address" : " 양진로 110-3 (사음동)  ",
+				"chief" : "정인호",
+				"production" : "가로등주",
+				"business" : "금속가공",
+				"phone" : "031-4051793",
+				"number" : "5"
+		 
+		 
+		 
+		 
+		  
+		 
+				},
+	
+				{
+		 
+		 
+		    "post" : "225206",
+			 	"title" : "세창상사(주)",
+				"address" : " 경충대로 2994-36 (사음동)  ",
+				"chief" : "이창근",
+				"production" : "원단",
+				"business" : "섬유",
+				"phone" : "031-6362566",
+				"number" : "92"
+		 
+		 
+		 
+		 
+		  
+		 
+				}
+	
+			],
+			"numOfRows" : "10",
+	
+	
+		   "pageNo" : "1",
+	
+		   "totalCount" : "935"
+		}
+	}
+}
